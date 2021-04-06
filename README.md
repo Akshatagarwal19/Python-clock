@@ -1,2 +1,2 @@
 # Python-clock
-<img src="Python pr2 pic" alt="Clock op pic"/>
+<img src="Python pr2 pic.jpg" alt="Clock op pic"/>
